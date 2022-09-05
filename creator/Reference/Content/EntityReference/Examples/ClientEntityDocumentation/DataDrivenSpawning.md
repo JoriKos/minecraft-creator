@@ -7,7 +7,7 @@ ms.prod: gaming
 
 # Entity Documentation - Spawn Rules and Data-Driven Spawning
 
-Data-Driven spawning allows you to adjust the spawn conditions of mobs within Minecraft: Bedrock Edition, including new mobs added to the game to spawn naturally in biomes, add or remove a mob's spawn egg to the creative inventory and set the mob's spawn egg, and add or remove a to the /summon command.
+Data-Driven spawning allows you to adjust the spawn conditions of mobs within Minecraft: Bedrock Edition, including new mobs added to the game to spawn naturally in biomes, add or remove a mob's spawn egg to the creative inventory and set the mob's spawn egg, and add or remove a mob to the /summon command.
 
 ## Spawn Rules
 
